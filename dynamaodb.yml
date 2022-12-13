@@ -16,4 +16,5 @@ Resources:
       ProvisionedThroughput:
         ReadCapacityUnits: '5'
         WriteCapacityUnits: '5'
+          "this is my first learning book and i have to learn it"
 
